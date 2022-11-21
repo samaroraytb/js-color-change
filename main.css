@@ -1,0 +1,49 @@
+.color-change-class-div {
+    height: 100vh;
+    text-align: center;
+}
+
+.color-picker-heading {
+    font-weight: bold;
+    padding: 15px;
+}
+
+.common-button-class {
+    padding: 30px 15px 30px 15px;
+    font-size: 12px;
+    border-radius: 10px;
+    font-weight: 500;
+}
+
+.button-one {
+    background-color: #e0e0e0;
+}
+
+.button-two {
+    background-color: #6fcf97;
+}
+
+.button-three {
+    background-color: #56ccf2;
+}
+
+.button-four {
+    background-color: #bb6bd9;
+}
+
+.span-class {
+    color: skyblue;
+}
+
+.background-color-text {
+    background-color: black;
+    margin: 10px 0px 10px 0px;
+    padding: 10px;
+    color: white;
+    font-weight: bold;
+}
+
+.background-color-para {
+    font-weight: 500;
+    padding: 10px;
+}
